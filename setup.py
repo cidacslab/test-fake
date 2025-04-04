@@ -7,7 +7,7 @@ setup(
     description="Biblioteca fake para validação no Singularity",
     author="CIDACS",
     author_email="contato@cidacs.org",
-    url="https://github.com/seuusuario/cidacs-geolinkage",
+    url="https://github.com/cidacslab/test-fake",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
